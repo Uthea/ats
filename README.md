@@ -14,5 +14,4 @@ Requirements: <br>
 4. urllib3
 5. PySastrawi -> https://github.com/har07/PySastrawi
 
-
-
+Usage: Run ats.py file
